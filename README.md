@@ -1,17 +1,19 @@
-# Naam Proefopdracht
+# Hexagon Grid
 *Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
+in deze opdracht heb ik een grid gemaakt van zeshoeken die bewegen als je er overheen beweegd en van kleur veranderd als je er op klikt 
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- [hexagon grid](link)
+- [object hover animation](link)
+- [randomized color change by clicking](link)
+- [self made polygon mesh](link)
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
+ik heb overwogen om deze opdracht in unity of html5 te doen.
+in bijde kon ik een nieuwe mesh op een object zetten,
+en bij bijde kon ik in 3d werken
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
