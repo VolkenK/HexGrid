@@ -25,17 +25,17 @@ uiteindelijk heb ik toch besloten om unity te gebruiken omdat:
 ## Planning 
 ik heb mijzelf 8 werkdagen de tijd gegeven om dit te kunnen maken.
 
-|week 1 |.
- maandag |    onderzoeken waarin ik werken wil.
- dinsdag |    besluiten hoe ik het resultaat er uit wil laten zien.
- woensdag |   hexMesh scripten.
- donderdag |  grid scripten.
- vrijdag |    grid scripten.
+|week 1 
+|| maandag |    onderzoeken waarin ik werken wil.
+|| dinsdag |    besluiten hoe ik het resultaat er uit wil laten zien.
+|| woensdag |   hexMesh scripten.
+|| donderdag |  grid scripten.
+|| vrijdag |    grid scripten.
 
-|week 2 |.
-maandag |     grid scripten.
-dinsdag |     mouseHover scripten.
-woensdag |    ColorRandomizer scripten.
+||week 2 
+||maandag |     grid scripten.
+||dinsdag |     mouseHover scripten.
+||woensdag |    ColorRandomizer scripten.
 
 ## Bronnen
 - [Unity API](https://docs.unity3d.com/ScriptReference/Mathf.Lerp.html)
