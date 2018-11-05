@@ -1,28 +1,29 @@
 # Hexagon Grid
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
 in deze opdracht heb ik een grid gemaakt van zeshoeken die bewegen als je er overheen beweegd en van kleur veranderd als je er op klikt 
 
 ## Features
 
-- [hexagon grid](link)
-- [object hover animation](link)
-- [randomized color change by clicking](link)
-- [self made polygon mesh](link)
+- [hexagon grid](https://github.com/VolkenK/HexGrid/blob/master/SpawnHex.cs)
+- [object hover animation](https://github.com/VolkenK/HexGrid/blob/master/HexScript.cs)
+- [randomized color change by clicking](https://github.com/VolkenK/HexGrid/blob/master/HexScript.cs)
+- [self made polygon mesh](https://github.com/VolkenK/HexGrid/blob/master/HexMesh.cs)
 
 ## Software Anaylse 
 ik heb overwogen om deze opdracht in unity of html5 te doen.
 in bijde kon ik een nieuwe mesh op een object zetten,
-en bij bijde kon ik in 3d werken
+en bij bijde kon ik in 3d werken.
+uiteindelijk heb ik toch besloten om unity te gebruiken omdat:
+- daarmee makkelijker in 3d te werken is.
+- en omdat ik daar beter in werken kon
 
 ## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+- een grid kunnen maken van zeshoeken.
+- zelf de 3d mesh van een object in elkaar zetten met polygons in een script.
+- hoe ik interactie met een muis kon creëren.
 
 ## Planning 
-Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
+ik heb mijzelf 2 weken de tijd gegeven om dit te kunnen maken.
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
