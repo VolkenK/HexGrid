@@ -23,16 +23,14 @@ uiteindelijk heb ik toch besloten om unity te gebruiken omdat:
 - hoe ik interactie met een muis kon creëren.
 
 ## Planning 
-ik heb mijzelf 2 weken de tijd gegeven om dit te kunnen maken.
+ik heb mijzelf 8 werkdagen de tijd gegeven om dit te kunnen maken.
 
-| | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
 |week 1 |
+| | maandag | dinsdag | woensdag | donderdag | vrijdag |
+| onderzoeken waarin ik werken wil | besluiten hoe ik het resultaat er uit wil laten zien | hexMesh scripten |  | grid scripten | grid scripten |
 |week 2 |
+| | maandag | dinsdag | woensdag |
+| grid scripten | mouseHover scripten | ColorRandomizer scripten | 
 
-## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
-
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- [Unity API](https://docs.unity3d.com/ScriptReference/Mathf.Lerp.html)
+- [Tutorial om een mesh te veranderen](https://www.youtube.com/watch?v=R_kV3YiJqEw)
